@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623249/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623249/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623249/blog/</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>WEEK9</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623249/blog/2018-Fall-week9.html</id><summary type="html">&lt;p&gt;122&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;122&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>機械設計工程系 2018 Fall 分組網誌</title><link href="https://mdecadp2018.github.io/site-40623249/blog/" rel="alternate"></link><link href="https://mdecadp2018.github.io/site-40623249/blog/feeds/all.atom.xml" rel="self"></link><id>https://mdecadp2018.github.io/site-40623249/blog/</id><updated>2018-11-05T11:00:00+08:00</updated><entry><title>WEEK9</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week9.html" rel="alternate"></link><published>2018-11-05T11:00:00+08:00</published><updated>2018-11-05T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-11-05:/site-40623249/blog/2018-Fall-week9.html</id><summary type="html">&lt;p&gt;期中考&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;期中考&lt;/p&gt;
+</content><category term="2018Fall"></category></entry><entry><title>WEEK8</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623249/blog/2018-Fall-week8.html</id><summary type="html">&lt;p&gt;雲端&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;雲端&lt;/p&gt;
 
 
-&lt;p&gt;將倉儲中的 flaskapp.py 更新至最新版本!&lt;/p&gt;
-&lt;p&gt;去google 搜尋cmsimfly，&lt;/p&gt;
-&lt;p&gt;進入https://github.com/chiamingyen/cmsimfly&lt;/p&gt;
-&lt;p&gt;接著git clone 倉儲，完成後找到他的flaskapp.py 的檔案&lt;/p&gt;
-&lt;p&gt;並且於SciTE開啟自己倉儲的flaskapp.py檔案，&lt;/p&gt;
-&lt;p&gt;用我們剛剛克隆下來的檔案複蓋過去並且儲存。&lt;/p&gt;
-&lt;p&gt;就完成更新了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK8</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week8.html" rel="alternate"></link><published>2018-10-29T11:00:00+08:00</published><updated>2018-10-29T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-29:/site-40623249/blog/2018-Fall-week8.html</id><summary type="html">&lt;p&gt;122&lt;/p&gt;
-</summary><content type="html">&lt;p&gt;122&lt;/p&gt;
-
-
-&lt;p&gt;將倉儲中的 flaskapp.py 更新至最新版本!&lt;/p&gt;
-&lt;p&gt;去google 搜尋cmsimfly，&lt;/p&gt;
-&lt;p&gt;進入https://github.com/chiamingyen/cmsimfly&lt;/p&gt;
-&lt;p&gt;接著git clone 倉儲，完成後找到他的flaskapp.py 的檔案&lt;/p&gt;
-&lt;p&gt;並且於SciTE開啟自己倉儲的flaskapp.py檔案，&lt;/p&gt;
-&lt;p&gt;用我們剛剛克隆下來的檔案複蓋過去並且儲存。&lt;/p&gt;
-&lt;p&gt;就完成更新了。&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK7</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623249/blog/2018-Fall-week7.html</id><summary type="html">&lt;p&gt;突發狀況!&lt;/p&gt;
+&lt;p&gt;Onshape可以讓使用者直接使用瀏覽器、平板或手機進行繪圖, 此雲端是在假設網路無所不在的環境中, 新產品開發團隊成員可以利用雲端隨時的下載及更新, 且毫無限制的電腦輔助設計套件, 協同完成各式零組件的設計與繪製&lt;/p&gt;
+&lt;p&gt;甚麼是雲端?&lt;/p&gt;
+&lt;p&gt;shared pools (可供共享用之眾多伺服器) of configurable computer system resources (可配置的電腦系統資源)&lt;/p&gt;
+&lt;p&gt;雲端運算 - 用多少開多少 - 用多少付多少 - 彈性高負擔少&lt;/p&gt;
+&lt;p&gt;pool: a readily available supply (能隨時提供配置與調適)&lt;/p&gt;
+&lt;p&gt;higher-level services that can be rapidly provisioned (可快速配置) with minimal management effort (最少管理), often over the Internet&lt;/p&gt;</content><category term="2018Fall"></category></entry><entry><title>WEEK7</title><link href="https://mdecadp2018.github.io/site-40623249/blog/2018-Fall-week7.html" rel="alternate"></link><published>2018-10-22T11:00:00+08:00</published><updated>2018-10-22T11:00:00+08:00</updated><author><name>NFUMDE</name></author><id>tag:mdecadp2018.github.io,2018-10-22:/site-40623249/blog/2018-Fall-week7.html</id><summary type="html">&lt;p&gt;突發狀況!&lt;/p&gt;
 </summary><content type="html">&lt;p&gt;突發狀況!&lt;/p&gt;
 
 
