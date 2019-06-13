@@ -286,7 +286,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 單/雙支球員製作與模擬
 
-[單人球員] (https://www.youtube.com/watch?v=wEtOXdks_ds)   [雙人球員](https://www.youtube.com/watch?v=WQ13H6bC_LY&amp;t=429s)</t>
+[單人球員](https://www.youtube.com/watch?v=wEtOXdks_ds)   [雙人球員](https://www.youtube.com/watch?v=WQ13H6bC_LY&amp;t=429s)</t>
 <t tx="leo.20190613223216.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
