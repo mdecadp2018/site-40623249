@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Created by Leo: http://leoeditor.com/leo_toc.html -->
 <leo_file xmlns:leo="http://leoeditor.com/namespaces/leo-python-editor/1.1" >
-<leo_header file_format="2" tnodes="0" max_tnode_index="0" clone_windows="0"/>
-<globals body_outline_ratio="0.5" body_secondary_ratio="0.5">
-	<global_window_position top="50" left="50" height="500" width="700"/>
-	<global_log_window_position top="0" left="0" height="0" width="0"/>
-</globals>
+<leo_header file_format="2"/>
+<globals/>
 <preferences/>
 <find_panel_settings/>
 <vnodes>
@@ -13,15 +10,15 @@
 <v t="leo.20180827201556.2"><vh>@data qt-gui-plugin-style-sheet</vh></v>
 <v t="leo.20180827201556.3"><vh>@string initial_split_orientation = horizontal</vh></v>
 </v>
-<v t="leo.20180827201621.1" a="E"><vh>編輯 reveal</vh>
-<v t="leo.20180827201621.2" a="E"><vh>@path ./../reveal</vh>
-<v t="leo.20180827201621.3" a="E"><vh>@clean index.html</vh>
-<v t="leo.20180827201621.4" a="E"><vh>html</vh>
+<v t="leo.20180827201621.1"><vh>編輯 reveal</vh>
+<v t="leo.20180827201621.2"><vh>@path ./../reveal</vh>
+<v t="leo.20180827201621.3"><vh>@clean index.html</vh>
+<v t="leo.20180827201621.4"><vh>html</vh>
 <v t="leo.20180827201621.5"><vh>head</vh></v>
-<v t="leo.20180827201621.6" a="E"><vh>body</vh>
-<v t="leo.20180827201621.7" a="E"><vh>reveal div</vh>
-<v t="leo.20180827201621.8" a="E"><vh>slides div</vh>
-<v t="leo.20180827201621.9" a="E"><vh>封面投影片</vh>
+<v t="leo.20180827201621.6"><vh>body</vh>
+<v t="leo.20180827201621.7"><vh>reveal div</vh>
+<v t="leo.20180827201621.8"><vh>slides div</vh>
+<v t="leo.20180827201621.9"><vh>封面投影片</vh>
 <v t="leo.20180827201621.10"><vh>封面投影片內容</vh></v>
 </v>
 <v t="leo.20180827201621.11"><vh>投影片</vh>
@@ -30,8 +27,17 @@
 <v t="leo.20181008111521.1"><vh>week1</vh>
 <v t="leo.20181008111521.2"><vh>week11</vh></v>
 </v>
-<v t="leo.20181008111601.1" a="E"><vh>week2</vh>
+<v t="leo.20181008111601.1"><vh>week2</vh>
 <v t="leo.20181008111601.2"><vh>week22</vh></v>
+</v>
+<v t="leo.20190613223216.1"><vh>week1</vh>
+<v t="leo.20190613223216.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20190613223224.1"><vh>week1</vh>
+<v t="leo.20190613223224.2"><vh>week11</vh></v>
+</v>
+<v t="leo.20190613223228.1"><vh>week1</vh>
+<v t="leo.20190613223228.2"><vh>week11</vh></v>
 </v>
 </v>
 </v>
@@ -119,15 +125,15 @@ QLineEdit#editorLabel {
 <t tx="leo.20180827201556.3">horizontal: body pane to the left
 vertical: body pane on the botton</t>
 <t tx="leo.20180827201621.1"></t>
-<t tx="leo.20180827201621.10">## 2018Fall 分組網際簡報
+<t tx="leo.20180827201621.10">## 2019協同產品設計實習
 
-### 虎科大機械設計工程系
+### 40623249個人簡報
 
 &lt;small&gt;
-Created by [KMOLab](http://lab.kmol.info/)
+Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.html)
 &lt;/small&gt;
-
-[2018 Fall 40623249網誌](./../blog/index.html)
+[個人倉儲](https://github.com/mdecadp2018/site-40623249)
+[分組網誌](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/index.html)
 
 
 </t>
@@ -264,7 +270,9 @@ Created by [KMOLab](http://lab.kmol.info/)
 "python wsgi.py"就可進入8443(遠端)。
 
 更改完成過後就直接git add/commit/push
-就完成更新及維護!</t>
+就完成更新及維護!
+
+</t>
 <t tx="leo.20181008111601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -290,6 +298,77 @@ Created by [KMOLab](http://lab.kmol.info/)
 
 編輯完成後按generate_pages推上8444(遠端)
 
-看完之後沒問題就用git add ./commit/push推到github上面</t>
+看完之後沒問題就用git add ./commit/push推到github上面
+
+</t>
+<t tx="leo.20190613223216.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613223216.2"># week 1
+
+在第一周先git clone 網址並建立自己的網站，
+克隆完成後綁定適用者的名稱和密碼。
+
+接下來在SciTE上拉入http-serer.py執行，
+就可以進入8443(近端)看到自己的網誌，如果要更改
+那就進入自己的資料夾中在命令列打上
+"python wsgi.py"就可進入8443(遠端)。
+
+更改完成過後就直接git add/commit/push
+就完成更新及維護!
+
+</t>
+<t tx="leo.20190613223224.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613223224.2"># week 1
+
+在第一周先git clone 網址並建立自己的網站，
+克隆完成後綁定適用者的名稱和密碼。
+
+接下來在SciTE上拉入http-serer.py執行，
+就可以進入8443(近端)看到自己的網誌，如果要更改
+那就進入自己的資料夾中在命令列打上
+"python wsgi.py"就可進入8443(遠端)。
+
+更改完成過後就直接git add/commit/push
+就完成更新及維護!
+
+</t>
+<t tx="leo.20190613223228.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20190613223228.2"># week 1
+
+在第一周先git clone 網址並建立自己的網站，
+克隆完成後綁定適用者的名稱和密碼。
+
+接下來在SciTE上拉入http-serer.py執行，
+就可以進入8443(近端)看到自己的網誌，如果要更改
+那就進入自己的資料夾中在命令列打上
+"python wsgi.py"就可進入8443(遠端)。
+
+更改完成過後就直接git add/commit/push
+就完成更新及維護!
+
+</t>
 </tnodes>
 </leo_file>
