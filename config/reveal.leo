@@ -268,18 +268,11 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20181008111521.2"># week 10~11
 
-在第一周先git clone 網址並建立自己的網站，
-克隆完成後綁定適用者的名稱和密碼。
+組員分配工作
 
-接下來在SciTE上拉入http-serer.py執行，
-就可以進入8443(近端)看到自己的網誌，如果要更改
-那就進入自己的資料夾中在命令列打上
-"python wsgi.py"就可進入8443(遠端)。
+進行實習任務三
 
-更改完成過後就直接git add/commit/push
-就完成更新及維護!
-
-</t>
+網站內容維護</t>
 <t tx="leo.20181008111601.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -291,23 +284,9 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20181008111601.2"># week 12~13
 
-如何以 ShareX 取圖:
+單/雙支球員製作與模擬
 
-截圖ctrl+print screen
-
-螢幕開始/停止錄製shift+print screen
-
-如何管理 CMSimfly 作業倉儲:
-
-首先進入8443(近端)按下edit開始編輯
-
-但要注意頁面的分層是有順序性的!
-
-編輯完成後按generate_pages推上8444(遠端)
-
-看完之後沒問題就用git add ./commit/push推到github上面
-
-</t>
+[單人球員] (https://www.youtube.com/watch?v=wEtOXdks_ds)   [雙人球員](https://www.youtube.com/watch?v=WQ13H6bC_LY&amp;t=429s)</t>
 <t tx="leo.20190613223216.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -319,18 +298,9 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20190613223216.2"># week 14
 
-在第一周先git clone 網址並建立自己的網站，
-克隆完成後綁定適用者的名稱和密碼。
+人與人對戰模擬
 
-接下來在SciTE上拉入http-serer.py執行，
-就可以進入8443(近端)看到自己的網誌，如果要更改
-那就進入自己的資料夾中在命令列打上
-"python wsgi.py"就可進入8443(遠端)。
-
-更改完成過後就直接git add/commit/push
-就完成更新及維護!
-
-</t>
+[影片](https://www.youtube.com/watch?v=aAG0wYawJ-I&amp;t=4s)</t>
 <t tx="leo.20190613223224.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -342,18 +312,9 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20190613223224.2"># week 15
 
-在第一周先git clone 網址並建立自己的網站，
-克隆完成後綁定適用者的名稱和密碼。
+人與機對戰模擬
 
-接下來在SciTE上拉入http-serer.py執行，
-就可以進入8443(近端)看到自己的網誌，如果要更改
-那就進入自己的資料夾中在命令列打上
-"python wsgi.py"就可進入8443(遠端)。
-
-更改完成過後就直接git add/commit/push
-就完成更新及維護!
-
-</t>
+[影片](https://www.youtube.com/watch?v=MxwbTm1Q78Q)</t>
 <t tx="leo.20190613223228.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -365,18 +326,9 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20190613223228.2"># week 16
 
-在第一周先git clone 網址並建立自己的網站，
-克隆完成後綁定適用者的名稱和密碼。
+機與機對戰模擬
 
-接下來在SciTE上拉入http-serer.py執行，
-就可以進入8443(近端)看到自己的網誌，如果要更改
-那就進入自己的資料夾中在命令列打上
-"python wsgi.py"就可進入8443(遠端)。
-
-更改完成過後就直接git add/commit/push
-就完成更新及維護!
-
-</t>
+[影片](https://www.youtube.com/watch?v=Uv_SfE0ZHog)</t>
 <t tx="leo.20190613224447.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -388,6 +340,8 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 </t>
 <t tx="leo.20190613224447.2"># week 17
 
-期末考報告</t>
+期末考報告
+
+[影片](https://www.youtube.com/watch?v=z7thbG8H-AY)</t>
 </tnodes>
 </leo_file>
