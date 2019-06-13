@@ -25,22 +25,22 @@
 <v t="leo.20180827201621.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20181008111521.1"><vh>week10~11</vh>
-<v t="leo.20181008111521.2"><vh>week11</vh></v>
+<v t="leo.20181008111521.2"><vh>week12</vh></v>
 </v>
 <v t="leo.20181008111601.1"><vh>week12~13</vh>
 <v t="leo.20181008111601.2"><vh>week22</vh></v>
 </v>
 <v t="leo.20190613223216.1"><vh>week14</vh>
-<v t="leo.20190613223216.2"><vh>week11</vh></v>
+<v t="leo.20190613223216.2"><vh>week14</vh></v>
 </v>
 <v t="leo.20190613223224.1"><vh>week15</vh>
-<v t="leo.20190613223224.2"><vh>week11</vh></v>
+<v t="leo.20190613223224.2"><vh>week15</vh></v>
 </v>
 <v t="leo.20190613223228.1"><vh>week16</vh>
-<v t="leo.20190613223228.2"><vh>week11</vh></v>
+<v t="leo.20190613223228.2"><vh>week16</vh></v>
 </v>
 <v t="leo.20190613224447.1"><vh>week17</vh>
-<v t="leo.20190613224447.2"><vh>week11</vh></v>
+<v t="leo.20190613224447.2"><vh>week17</vh></v>
 </v>
 </v>
 </v>
@@ -137,6 +137,7 @@ vertical: body pane on the botton</t>
 &lt;small&gt;
 Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.html)
 &lt;/small&gt;
+
 [個人倉儲](https://github.com/mdecadp2018/site-40623249)
 
 [分組網誌](https://mdekmol.github.io/cd2019b-task1-2019cdb_t1_g2/content/index.html)
@@ -265,7 +266,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20181008111521.2"># week 1
+<t tx="leo.20181008111521.2"># week 10~11
 
 在第一周先git clone 網址並建立自己的網站，
 克隆完成後綁定適用者的名稱和密碼。
@@ -288,7 +289,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20181008111601.2"># week 2
+<t tx="leo.20181008111601.2"># week 12~13
 
 如何以 ShareX 取圖:
 
@@ -316,7 +317,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20190613223216.2"># week 1
+<t tx="leo.20190613223216.2"># week 14
 
 在第一周先git clone 網址並建立自己的網站，
 克隆完成後綁定適用者的名稱和密碼。
@@ -339,7 +340,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20190613223224.2"># week 1
+<t tx="leo.20190613223224.2"># week 15
 
 在第一周先git clone 網址並建立自己的網站，
 克隆完成後綁定適用者的名稱和密碼。
@@ -362,7 +363,7 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20190613223228.2"># week 1
+<t tx="leo.20190613223228.2"># week 16
 
 在第一周先git clone 網址並建立自己的網站，
 克隆完成後綁定適用者的名稱和密碼。
@@ -385,19 +386,8 @@ Created by [40623249](https://mdecadp2018.github.io/site-40623249/content/index.
 
 						
 </t>
-<t tx="leo.20190613224447.2"># week 1
+<t tx="leo.20190613224447.2"># week 17
 
-在第一周先git clone 網址並建立自己的網站，
-克隆完成後綁定適用者的名稱和密碼。
-
-接下來在SciTE上拉入http-serer.py執行，
-就可以進入8443(近端)看到自己的網誌，如果要更改
-那就進入自己的資料夾中在命令列打上
-"python wsgi.py"就可進入8443(遠端)。
-
-更改完成過後就直接git add/commit/push
-就完成更新及維護!
-
-</t>
+期末考報告</t>
 </tnodes>
 </leo_file>
